@@ -1,0 +1,16 @@
+<bootstrap>
+
+-반응형 웹 동적 제어 
+
+-bootstrap download : https://getbootstrap.com/docs/5.0/getting-started/download/
+-grid sys 이해 중요!
+-body의 최상단 클래스 무조건: <div class= "container"> -> 좌 우측 padding이 조금 있다. 
+			  -<div class= "container-fluid">=>좌 우측 padding없이 
+-container 밑에 row한 행 잡아주고 써야함.  <div class = "row">
+-row밑에 12개의 컬럼으로 나눠서 쓰임. 
+-하나의 컨테이너 안에 여러개의 row도 가능. 
+
+-참고: css 선택자. https://pridiot.tistory.com/11
+-class 와일드카드 쓰기: div [class*="col"] 
+
+-탬플릿 사이트: https://startbootstrap.com/previews/sb-admin-2
